@@ -62,7 +62,7 @@ export const FormContain1 = styled.div`
 `;
 
 export const JokesBack = styled.div`
-  background: red;
+  background: darkred;
   width: 100%;
   margin: 0;
   display: flex;
